@@ -20,7 +20,7 @@ A Streamlit-based app that identifies plants from leaf images using a TensorFlow
 
 Install the required Python packages using the provided `requirements.txt` file:
 
-```bash
+
 pip install -r requirements.txt
 ```
 ````
@@ -42,13 +42,13 @@ pip install -r requirements.txt
 
 Launch the Streamlit app using the following command:
 
-```bash
+bash
 streamlit run app.py
-```
 
----
 
-## File Overview
+
+
+File Overview
 
 - **`app.py`**: Main logic of the Streamlit app, including image upload, prediction, and database query functions.
 - **`model.py`**: Contains functions for preprocessing images and predicting plant species (if separated; otherwise integrated in `app.py`).
