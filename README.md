@@ -1,4 +1,4 @@
-````markdown
+
 # 🌿 Plant Identifier App 🌿
 
 A Streamlit-based app that identifies plants from leaf images using a TensorFlow model and fetches details from a MySQL database.
